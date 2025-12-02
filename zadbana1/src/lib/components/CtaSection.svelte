@@ -23,12 +23,6 @@
     </div>
 </section>
 
-<footer>
-    <div class="z-container" style="text-align: center; padding-bottom: 40px; color: var(--color-text-light);">
-        <p>&copy; 2024 Zadbana Skin Expert. Wszystkie prawa zastrzeżone.</p>
-    </div>
-</footer>
-
 <style>
     .cta-wrapper {
         margin-top: 40px;

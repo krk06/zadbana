@@ -6,6 +6,7 @@
   import ReasonsSection from './lib/components/ReasonsSection.svelte';
   import LocationSection from './lib/components/LocationSection.svelte';
   import CtaSection from './lib/components/CtaSection.svelte';
+  import Footer from './lib/components/Footer.svelte';
 </script>
 
 <div class="zadbana-wrapper">
@@ -16,6 +17,7 @@
   <ReasonsSection />
   <LocationSection />
   <CtaSection />
+  <Footer />
 </div>
 
 <style>
