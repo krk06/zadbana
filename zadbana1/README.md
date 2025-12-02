@@ -40,4 +40,4 @@ If you have state that's important to retain within a component, consider creati
 // An extremely simple external store
 import { writable } from 'svelte/store'
 export default writable(0)
-``` test2
+``` test22
